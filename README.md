@@ -5,9 +5,9 @@ a two-line explanation of one everyday thing — a queue — built on a single
 vivid analogy, with a second line that says honestly what the analogy
 maps and what it leaves out.
 
-![Competition](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)
-![Rank](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/Kopler12/kopler-suga-everyday/rank.svg)
-![Reward](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/Kopler12/kopler-suga-everyday/reward.svg)
+[![make.fun · u-suga-everyday-things-two-lines-longer-run-f8734479](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![rank](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/Kopler12/kopler-suga-everyday/rank.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![reward](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/Kopler12/kopler-suga-everyday/reward.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
 
 Competition: https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479
 
